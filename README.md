@@ -3,6 +3,9 @@
 # Bank Customer Churn Prediction
 Predicting whether a customer will leave a bank using machine learning models (Decision Tree, Logistic Regression, and SVM) with comprehensive Exploratory Data Analysis (EDA), feature engineering, and visualization.
 
+# Customer Churn Prediction App:
+https://svm-decision-tree.streamlit.app/
+
 ## Table of Contents
 
 Project Overview
